@@ -1,18 +1,26 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Lightning Web Component Superbadge
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## What You'll Be Doing to Earn This Superbadge
+Use Salesforce Lightning Design System (SLDS) in functional Lightning web components.
+Convert Visualforce pages into a solution using Lightning Web Components.
+Surface Lightning web components in Lightning App Builder, Lightning Experience, and a Lightning application.
+Empower Admins to configure your custom components.
+Create and invoke Apex methods to read data from custom objects.
+Use component events and public methods to enable communication between tightly coupled components.
+Enable communication between loosely coupled components.
+Use Lightning Data Service to read and write custom object data.
+Customize and use external JavaScript in a Lightning web component.
+Troubleshoot your JavaScript code.
+Describe how to test Lightning Web Components.
+Import, export, and extend modules.
 
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Concepts Tested in This Superbadge
+Developing Lightning Web Components for use in Lightning App Builder
+Using Lightning Data Service
+Using JavaScript to handle user interactions
+Troubleshooting components
+Showing and hiding UX controls dynamically
+Reading and writing custom object data
+Communicating between components
+Using native Salesforce functionality
+Using external JavaScript in a Lightning web component
