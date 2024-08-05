@@ -15,12 +15,12 @@ Describe how to test Lightning Web Components.
 Import, export, and extend modules.
 
 ## Concepts Tested in This Superbadge
-Developing Lightning Web Components for use in Lightning App Builder
-Using Lightning Data Service
-Using JavaScript to handle user interactions
-Troubleshooting components
-Showing and hiding UX controls dynamically
-Reading and writing custom object data
-Communicating between components
-Using native Salesforce functionality
-Using external JavaScript in a Lightning web component
+- Developing Lightning Web Components for use in Lightning App Builder
+- Using Lightning Data Service
+- Using JavaScript to handle user interactions
+- Troubleshooting components
+- Showing and hiding UX controls dynamically
+- Reading and writing custom object data
+- Communicating between components
+- Using native Salesforce functionality
+- Using external JavaScript in a Lightning web component
